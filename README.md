@@ -5,26 +5,32 @@ This is a fully functional eCommerce application built with React Native. Users 
 
 ## Screen Shots
 
-### Auth Screen
-#### Allows users to sign in using Google or Apple authentication via Clerk.
-
-<img src="images/AuthScreen.jpg" alt="Auth Screen" width="200" />
-
-
-### Home Screen
-#### Displays a list of available products with essential details.
-
-<img src="images/AuthScreen.jpg" alt="Auth Screen" width="200" />
-
-### Product Screen
-#### Shows detailed information about a selected product, including images, price, and description.
-
-<img src="images/ProductScreen.jpg" alt="Product Screen" width="200" />
-
-### Cart Screen
-#### Displays products added to the cart and provides an option to proceed to checkout.
-
-<img src="images/CartScreen.jpg" alt="Cart Screen" width="200" />
+<table>
+  <tr>
+    <td>
+      <h3>Auth Screen</h3>
+      <p>Allows users to sign in using Google or Apple authentication via Clerk.</p>
+      <img src="images/AuthScreen.jpg" alt="Auth Screen" width="200" />
+    </td>
+    <td>
+      <h3>Home Screen</h3>
+      <p>Displays a list of available products with essential details.</p>
+      <img src="images/HomeScreen.jpg" alt="Home Screen" width="200" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Product Screen</h3>
+      <p>Shows detailed information about a selected product, including images, price, and description.</p>
+      <img src="images/ProductScreen.jpg" alt="Product Screen" width="200" />
+    </td>
+    <td>
+      <h3>Cart Screen</h3>
+      <p>Displays products added to the cart and provides an option to proceed to checkout.</p>
+      <img src="images/CartScreen.jpg" alt="Cart Screen" width="200" />
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **User Authentication**: Google and Apple login powered by **Clerk**.
