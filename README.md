@@ -30,6 +30,12 @@ This is a fully functional eCommerce application built with React Native. Users 
       <img src="images/CartScreen.jpg" alt="Cart Screen" width="200" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>Orders Screen</h3>
+      <img src="images/OrdersScreen.jpg" alt="Product Screen" width="200" />
+    </td>
+  </tr>
 </table>
 
 ## Features
