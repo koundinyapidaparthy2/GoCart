@@ -8,22 +8,23 @@ This is a fully functional eCommerce application built with React Native. Users 
 ### Auth Screen
 #### Allows users to sign in using Google or Apple authentication via Clerk.
 
-![Auth Screen](images/AuthScreen.jpg)
+<img src="images/AuthScreen.jpg" alt="Auth Screen" width="200" />
+
 
 ### Home Screen
 #### Displays a list of available products with essential details.
 
-![Auth Screen](images/HomeScreen.jpg)
+<img src="images/AuthScreen.jpg" alt="Auth Screen" width="200" />
 
 ### Product Screen
 #### Shows detailed information about a selected product, including images, price, and description.
 
-![Auth Screen](images/ProductScreen.jpg)
+<img src="images/ProductScreen.jpg" alt="Product Screen" width="200" />
 
 ### Cart Screen
 #### Displays products added to the cart and provides an option to proceed to checkout.
 
-![Auth Screen](images/CartScreen.jpg)
+<img src="images/CartScreen.jpg" alt="Cart Screen" width="200" />
 
 ## Features
 - **User Authentication**: Google and Apple login powered by **Clerk**.
